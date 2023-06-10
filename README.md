@@ -9,3 +9,10 @@ being maintained.
 
 Watkins.html contain a usage example. You need to supply your own
 mapbox key to use mapbox images.
+
+Canal.html contains an example of using different tags for relation and
+way searches.
+
+The race track examples may be viewed at http://www.na-motorsports.com/test/
+
+The Canal example may be viewed at http://www.averillpark.net/Canal/
